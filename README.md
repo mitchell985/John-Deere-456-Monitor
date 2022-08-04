@@ -1,4 +1,4 @@
-# John-Deere-456-Monitor
+# John Deere 456 Monitor
 
 Ardunio Project to create a bale counter monitor for the John Deere 456 small sqaure baler.
 
